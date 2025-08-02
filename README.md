@@ -1,4 +1,4 @@
-# ATM--PROJECT
+# simple banking system
 # 🏦 ATM Simulation Program (Java)
 
 This is a simple **console-based ATM Program** written in Java.  
